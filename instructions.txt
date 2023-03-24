@@ -1,0 +1,6 @@
+You can press arrow keys for movement and space key for shooting;               "
+Your score will increase by eating food pallets.                                "
+Your health will decrease by colliding with enemies or by fire of enemy.        "
+Food pallets will give you shield to bullets of enemy .                         "
+It is a game of seconds try to keep away from walls and enemies.                "
+If enemy bullets or enemy are exactly next to you then health will decrease.    "

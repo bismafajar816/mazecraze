@@ -1,0 +1,6 @@
+Keys                             Functions               "
+Up arrow                         Move character upward   "
+Down arrow                       Move character downward "
+Left arrow                       Move character leftward "
+Right arrow                      Move character rightward"
+Space Bar                        Hero Bullets            "
